@@ -10,7 +10,7 @@ export const nav = {
       to: '/work',
     },
     {
-      text: 'MyTeam',
+      text: 'MY TEAM',
       to: '/myteam',
     },
     {
@@ -18,7 +18,7 @@ export const nav = {
       to: '/contact',
     },
     {
-      text: 'Web Portfolio',
+      text: 'WEB PORTFOLIO',
       to: 'https://captainrockp1.wixsite.com/my-site',
     },
     {
