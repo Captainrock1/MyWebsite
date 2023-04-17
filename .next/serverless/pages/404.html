@@ -1,0 +1,26 @@
+<!DOCTYPE html><html><head><meta charSet="utf-8"/><meta name="viewport" content="initial-scale=1.0, width=device-width"/><meta name="theme-color" content="#ffffff"/><meta name="description" content="Developer. Designer. Tech Enthusiast."/><meta property="og:title" content="knp soda website"/><meta property="og:type" content="website"/><meta property="og:url" content=""/><meta property="og:image" content=""/><meta property="og:description" content=" I&#x27;m a software developer from Phitsanulok Thailand. 🔥"/><meta name="twitter:card" content="summary"/><meta name="twitter:site" content=""/><meta name="twitter:creator" content=""/><meta name="twitter:image" content=""/><meta name="google-site-verification" content="6zN_DV-uihM3ghNKdbtKIDTZXlcdQv9WFH5BHz8wnyE"/><link rel="icon" href="/favicon.ico"/><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/><link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"/><title></title><meta name="next-head-count" content="19"/><script>
+            (function() {
+              var storageKey = 'dark';
+              var classNameDark = 'dark';
+              var classNameLight = 'light';
+              var d = document.querySelector('html');
+              function setClassOnDocumentBody(dark) {
+                d.classList.add(dark ? classNameDark : classNameLight);
+                d.classList.remove(dark ? classNameLight : classNameDark);
+              }
+              var localStorageTheme = null;
+              try {
+                localStorageTheme = localStorage.getItem(storageKey);
+              } catch (err) {}
+              var localStorageExists = localStorageTheme !== null;
+              if (localStorageExists) {
+                localStorageTheme = JSON.parse(localStorageTheme);
+              }
+              if (localStorageExists) {
+                setClassOnDocumentBody(localStorageTheme);
+              } else {
+                var isDarkMode = d.classList.contains(classNameDark);
+                localStorage.setItem(storageKey, JSON.stringify(isDarkMode));
+              }
+            })();
+          </script><link rel="preload" href="/_next/static/css/405f006a6c66a1df.css" as="style"/><link rel="stylesheet" href="/_next/static/css/405f006a6c66a1df.css" data-n-g=""/><noscript data-n-css=""></noscript><script defer="" nomodule="" src="/_next/static/chunks/polyfills-5cd94c89d3acac5f.js"></script><script src="/_next/static/chunks/webpack-69bfa6990bb9e155.js" defer=""></script><script src="/_next/static/chunks/framework-e70c6273bfe3f237.js" defer=""></script><script src="/_next/static/chunks/main-01df828e572375b9.js" defer=""></script><script src="/_next/static/chunks/pages/_app-df7d35742debc96a.js" defer=""></script><script src="/_next/static/chunks/pages/404-2ccfcb3f08b1ad19.js" defer=""></script><script src="/_next/static/kdMK_fLP0sgwVXM_u0Iy1/_buildManifest.js" defer=""></script><script src="/_next/static/kdMK_fLP0sgwVXM_u0Iy1/_ssgManifest.js" defer=""></script><script src="/_next/static/kdMK_fLP0sgwVXM_u0Iy1/_middlewareManifest.js" defer=""></script></head><body><div id="__next" data-reactroot=""><div class="dark:bg-black"><div class=" flex h-screen"><div class="m-auto"><div class="items-center justify-center text-center"><div class="mx-auto flex flex-col"><h1 class="text-3xl font-bold text-black dark:text-white">Peerapon_Chaijittiprasert<span class="rounded-full bg-blue h-2 w-2 inline-block"></span></h1><h1 class="md:text-4xl text-lg font-bold text-blue">404</h1><h2 class="text-base md:text-3xl dark:text-white">The page you&#x27;re looking for does not exist.</h2><button class="bg-lightblue dark:bg-blue px-5 md:px-10 py-2 md:py-3 mt-10 rounded-lg md:text-lg text-sm text-blue dark:text-white font-medium capitalize hover:bg-blue hover:text-white transition-colors duration-400 focus:outline-none" href="/">HOME</button></div></div></div></div></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{}},"page":"/404","query":{},"buildId":"kdMK_fLP0sgwVXM_u0Iy1","runtimeConfig":{},"nextExport":true,"autoExport":true,"isFallback":false,"scriptLoader":[]}</script></body></html>
