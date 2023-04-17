@@ -116,10 +116,10 @@ export const contactInfo = {
   ],
 };
 
-/*export const resume = {
-  url: '',
+export const resume = {
+  url: 'https://cdn.fbsbx.com/v/t59.2708-21/342119039_1558286491325606_6662934971031672956_n.pdf/Peerapons-Resume.pdf?_nc_cat=110&ccb=1-7&_nc_sid=0cab14&_nc_eui2=AeEARS4KGf_6Xg-T5CbJXPqyuzkuB_vHNhO7OS4H-8c2E-nWJlOywTDSK352-UseAnhNQLsXgRVYTsrlXGF892qO&_nc_ohc=uRC4yhHeGWUAX_sMSqb&_nc_oc=AQnTMpekV2DXMKaF_Yeu5d9Fs5QhBHi_lb5BNDQyMJsXoc-QUJpvN3nikfKDgQx2ohFHL794UJYpLejG8Wragtam&_nc_ht=cdn.fbsbx.com&oh=03_AdSLsXmTDkymXfUkiBCxyCiY6jVWVB-fONfKvLKu8fwW1w&oe=643FC218&dl=1',
   btn: 'DOWNLOAD RESUME',
-};*/
+};
 
 export const personalProjectsInfo = [
   {
