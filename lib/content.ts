@@ -122,7 +122,7 @@ export const contactInfo = {
 
 export const personalProjectsInfo = [
   {
-    title: 'web_etkd',
+    title: 'Web ETkd',
     subtitle: 'Web Application for Exchanging and Trading Knowledge Documents.',
     img: 'assets/projects/WebETKD.jpg',
     redirect: '',
@@ -130,7 +130,7 @@ export const personalProjectsInfo = [
     link: 'https://webapp-etkd.cyclic.app/',
   },
   {
-    title: 'resource_capacity_plan',
+    title: 'Web RCP',
     subtitle: 'Web Application - Resource Capacity Plan for IBM Manage Service Project',
     img: 'assets/projects/resource_capacity_plan.jpg',
     redirect: '',
@@ -138,13 +138,21 @@ export const personalProjectsInfo = [
     link: 'https://drive.google.com/file/d/1ENUHKITTS4T8Invp23jrot3OLp75HIEf/view?usp=sharing',
   },
   {
-    title: 'crypto_currency',
+    title: 'Crypto Currency Test Program',
     subtitle: 'Calculating cryptocurrency taxes (personal income tax) using a function in Java programming language',
     img: 'assets/projects/cryptotax.jpg',
     redirect: '',
     github: 'https://github.com/Captainrock1/CryptoTaxTest',
     link: 'https://www.itax.in.th/pedia/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%9B%E0%B9%82%E0%B8%97-%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%94%E0%B8%B2/?fbclid=IwAR1s81IDDnSyrFKoP0lzLFKa7ScrPvLD1yTwIJtNgZeUX66-3Ku1Q3eneqI',
-  },  
+  },
+  {
+    title: 'Web PCaptainRovGamer',
+    subtitle: 'A website for displaying various details of channels used for streaming RoV game and uploading related clips.',
+    img: 'assets/projects/PCaptainRoVGamer.jpg',
+    redirect: '',
+    github: 'https://github.com/Captainrock1/captainrovgamer',
+    link: 'https://captainrovgamer.firebaseapp.com/',
+  },
 ];
 
 export const groupProjectsInfo = [
@@ -155,6 +163,14 @@ export const groupProjectsInfo = [
     redirect: '',
     github: 'https://github.com/Captainrock1/IP_project',
     link: 'http://web-etkd.infinityfreeapp.com/IP_project',
+  },
+  {
+    title: 'NU Borrow Book System',
+    subtitle: 'A website named NU Borrow Book, developed by me and my Software Engineering group members, using PHP.',
+    img: 'assets/projects/WebETKD.jpg',
+    redirect: '',
+    github: '',
+    link: 'https://www.youtube.com/watch?v=ZyEBeQ0JVf0',
   },
 ];
 
