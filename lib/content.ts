@@ -159,7 +159,7 @@ export const groupProjectsInfo = [
   {
     title: 'Hotel Management System',
     subtitle: 'A website named The Nextgen Hotel, developed by me and my Internet Programming group members, using PHP.',
-    img: 'assets/projects/WebETKD.jpg',
+    img: 'assets/projects/Hotel_Management.jpg',
     redirect: '',
     github: 'https://github.com/Captainrock1/IP_project',
     link: 'http://web-etkd.infinityfreeapp.com/IP_project',
@@ -167,7 +167,7 @@ export const groupProjectsInfo = [
   {
     title: 'NU Borrow Book System',
     subtitle: 'A website named NU Borrow Book, developed by me and my Software Engineering group members, using PHP.',
-    img: 'assets/projects/WebETKD.jpg',
+    img: 'assets/projects/NU_Borrow_Book.jpg',
     redirect: '',
     github: '',
     link: 'https://www.youtube.com/watch?v=ZyEBeQ0JVf0',
