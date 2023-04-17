@@ -14,7 +14,7 @@ const Header = (props) => {
         name="description"
         content="Developer. Designer. Tech Enthusiast."
       />
-      <meta property="og:title" content="knp soda website" />
+      <meta property="og:title" content="Captainrock1 website" />
       <meta property="og:type" content="website" />
       <meta property="og:url" content="" />
       <meta property="og:image" content="" />
