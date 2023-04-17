@@ -46,11 +46,11 @@ const TeamCard = (props: Props) => {
             <a href={props.Team.github} className="text-sm text-blue mr-4">
               <img src="assets/contact/Github.svg" className="h-6 md:h-8"></img>
             </a>
-            <a href={props.Team.fb} className="text-sm text-blue">
-              <img src="assets/fb.svg" className="h-6 md:h-8"></img>
+            <a href={props.Team.fb} className="text-sm text-blue mr-4">
+              <img src="assets/contact/fb.svg" className="h-6 md:h-8"></img>
             </a>
             <a href={props.Team.ig} className="text-sm text-blue">
-              <img src="assets/ig.svg" className="h-10 md:h-10"></img>
+              <img src="assets/contact/Instagram.svg" className="h-6 md:h-8"></img>
             </a>
           </div>
         </div>

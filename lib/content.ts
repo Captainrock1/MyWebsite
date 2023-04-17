@@ -18,8 +18,8 @@ export const nav = {
       to: '/contact',
     },
     {
-      text: 'Web ETkd',
-      to:"https://webapp-etkd.cyclic.app/",
+      text: 'Web Portfolio',
+      to:"https://captainrockp1.wixsite.com/my-site",
     }
   ],
 };
@@ -94,6 +94,11 @@ export const contactInfo = {
       name: 'GitHub',
     },
     {
+      img: '/assets/contact/fb.svg',
+      link: 'https://www.facebook.com/chaijittiprasert/',
+      name: 'Facebook',
+    },
+    {
       img: '/assets/contact/Instagram.svg',
       link: 'https://www.instagram.com/captainrockp1',
       name: 'Instagram',
@@ -116,13 +121,13 @@ export const contactInfo = {
   btn: 'DOWNLOAD RESUME',
 };*/
 
-export const projectsInfo = [
+export const personalProjectsInfo = [
   {
     title: 'web_etkd',
     subtitle: 'Web Application for Exchanging and Trading Knowledge Documents.',
     img: 'assets/projects/WebETKD.jpg',
     redirect: '',
-    github: 'https://github.com/Captainrock1/Final-Project',
+    github: 'https://github.com/Captainrock1/Final_Project',
     link: 'https://webapp-etkd.cyclic.app/',
   },
   {
@@ -130,11 +135,12 @@ export const projectsInfo = [
     subtitle: 'Web Application - Resource Capacity Plan for IBM Manage Service Project',
     img: 'assets/projects/resource_capacity_plan.jpg',
     redirect: '',
+    github: 'https://github.com/Captainrock1/RCP-Project',
     link: 'https://drive.google.com/file/d/1ENUHKITTS4T8Invp23jrot3OLp75HIEf/view?usp=sharing',
   },
   {
     title: 'crypto_currency',
-    subtitle: 'a basic tic tac toe game created in flutter',
+    subtitle: 'Calculating cryptocurrency taxes (personal income tax) using a function in Java programming language',
     img: 'assets/projects/cryptotax.jpg',
     redirect: '',
     github: 'https://github.com/Captainrock1/CryptoTaxTest',
@@ -142,6 +148,16 @@ export const projectsInfo = [
   },  
 ];
 
+export const groupProjectsInfo = [
+  {
+    title: 'Hotel Management System',
+    subtitle: 'A website named The Nextgen Hotel, developed by me and my Internet Programming group members, using PHP.',
+    img: 'assets/projects/WebETKD.jpg',
+    redirect: '',
+    github: 'https://github.com/Captainrock1/IP_project',
+    link: 'http://web-etkd.infinityfreeapp.com/IP_project',
+  },
+];
 
 export const myteamInfo = [
   {
@@ -149,10 +165,18 @@ export const myteamInfo = [
     nickname:'Nick Name Soda',
     penname: 'Pen Name Sea_taley',
     img: 'assets/soda.jpg',
-    website: '',
     github: 'https://github.com/KanapongAiamtip',
     fb: 'https://www.facebook.com/profile.php?id=100006123256688',
     ig:'https://www.instagram.com/_______knp___krit/',
+  },
+  {
+    name: 'Nutdanai Wongveeradachakajohn',
+    nickname:'Nick Name Aten',
+    penname: 'Pen Name GodDuckBoy',
+    img: 'assets/Aten.jpg',
+    github: 'https://github.com/GodDuckBoy',
+    fb: 'https://www.facebook.com/profile.php?id=100002694698578',
+    ig: 'https://www.instagram.com/godduckboy/',
   },
 ];
 
@@ -181,10 +205,8 @@ export const workInfo = [
     role: 'Teacher assistant',
     about: [
       'Teacher assistant Teaching programming Object Oriented Programming 2/2022',
+      'Teacher assistant Teaching programming Numerical Methods 2/2022',
       'Teacher assistant Teaching programming Object Oriented Programming 2/2021',
-      'Teacher assistant Teaching programming Python programming 1/2021',
-      'Teacher assistant Teaching programming Fundamental of programming 1/2021',
-      'Teacher assistant Teaching programming Object Oriented Programming 2/2020'
     ],
   },
 ];
