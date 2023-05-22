@@ -60,6 +60,18 @@ export const techstack = [
     name: 'Python',
   },
   {
+    img: '/assets/stack/php.svg',
+    name: 'PHP',
+  },
+  {
+    img: '/assets/stack/Java.svg',
+    name: 'Java',
+  },
+  {
+    img: '/assets/stack/nodejs.svg',
+    name: 'Node',
+  },
+  {
     img: '/assets/stack/react.svg',
     name: 'React',
   },
@@ -72,9 +84,9 @@ export const techstack = [
      name: 'Next JS',
   },
   {
-    img: '/assets/stack/nodejs.svg',
-    name: 'Node',
-  },
+    img: '/assets/stack/expressjs.svg',
+    name: 'Express JS',
+ },
 ];
 
 export const contactInfo = {
