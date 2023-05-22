@@ -138,6 +138,14 @@ export const personalProjectsInfo = [
     link: 'https://drive.google.com/file/d/1ENUHKITTS4T8Invp23jrot3OLp75HIEf/view?usp=sharing',
   },
   {
+    title: 'Web PCaptainRovGamer',
+    subtitle: 'A website for displaying various details of channels used for streaming RoV game and uploading related clips.',
+    img: 'assets/projects/PCaptainRoVGamer.jpg',
+    redirect: '',
+    github: 'https://github.com/Captainrock1/captainrovgamer',
+    link: 'https://captainrovgamer.firebaseapp.com/',
+  },
+  {
     title: 'Crypto Currency Test Program',
     subtitle: 'Calculating cryptocurrency taxes (personal income tax) using a function in Java programming language',
     img: 'assets/projects/cryptotax.jpg',
@@ -146,12 +154,12 @@ export const personalProjectsInfo = [
     link: 'https://www.itax.in.th/pedia/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%9B%E0%B9%82%E0%B8%97-%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%94%E0%B8%B2/?fbclid=IwAR1s81IDDnSyrFKoP0lzLFKa7ScrPvLD1yTwIJtNgZeUX66-3Ku1Q3eneqI',
   },
   {
-    title: 'Web PCaptainRovGamer',
-    subtitle: 'A website for displaying various details of channels used for streaming RoV game and uploading related clips.',
-    img: 'assets/projects/PCaptainRoVGamer.jpg',
+    title: 'Web Weticket',
+    subtitle: 'This is a simple helpdesk support ticket management application which is a pre-interview assignment for developers. However, the functionality of this website is not yet complete in terms of displaying tickets retrieved from the MyTickets system.',
+    img: 'assets/projects/WebWeticket.jpg',
     redirect: '',
-    github: 'https://github.com/Captainrock1/captainrovgamer',
-    link: 'https://captainrovgamer.firebaseapp.com/',
+    github: 'https://github.com/Captainrock1/A_simple_helpdesk_support_ticket_management_application',
+    link: 'https://we-ticket.netlify.app/',
   },
 ];
 
