@@ -48,10 +48,6 @@ export const about = [
 
 export const techstack = [
   {
-    img: '/assets/stack/kotlin.svg',
-    name: 'Android',
-  },
-  {
     img: '/assets/stack/fastapi.svg',
     name: 'FastAPI',
   },
@@ -68,25 +64,30 @@ export const techstack = [
     name: 'Java',
   },
   {
+    img: '/assets/stack/kotlin.svg',
+    name: 'Kotlin',
+  },
+  {
     img: '/assets/stack/nodejs.svg',
-    name: 'Node',
-  },
-  {
-    img: '/assets/stack/react.svg',
-    name: 'React',
-  },
-  {
-    img: '/assets/stack/vue.svg',
-    name: 'Vue',
-  },
-  {
-     img: '/assets/stack/nextjs.svg',
-     name: 'Next JS',
+    name: 'NodeJS',
   },
   {
     img: '/assets/stack/expressjs.svg',
-    name: 'Express JS',
- },
+    name: 'ExpressJS',
+  },
+  {
+     img: '/assets/stack/nextjs.svg',
+     name: 'NextJS',
+  },
+  {
+    img: '/assets/stack/react.svg',
+    name: 'ReactJS',
+  },
+  {
+    img: '/assets/stack/vue.svg',
+    name: 'VueJS',
+  },
+  
 ];
 
 export const contactInfo = {
