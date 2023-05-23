@@ -69,23 +69,23 @@ export const techstack = [
   },
   {
     img: '/assets/stack/nodejs.svg',
-    name: 'NodeJS',
+    name: 'Node',
   },
   {
     img: '/assets/stack/expressjs.svg',
-    name: 'ExpressJS',
+    name: 'Express JS',
   },
   {
      img: '/assets/stack/nextjs.svg',
-     name: 'NextJS',
+     name: 'Next JS',
   },
   {
     img: '/assets/stack/react.svg',
-    name: 'ReactJS',
+    name: 'React',
   },
   {
     img: '/assets/stack/vue.svg',
-    name: 'VueJS',
+    name: 'Vue',
   },
   
 ];
