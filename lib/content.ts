@@ -64,7 +64,7 @@ export const techstack = [
     name: 'PHP',
   },
   {
-    img: '/assets/stack/Java.svg',
+    img: '/assets/stack/java.svg',
     name: 'Java',
   },
   {
