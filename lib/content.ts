@@ -126,31 +126,23 @@ export const contactInfo = {
 
 export const personalProjectsInfo = [
   {
-    title: 'Web ETkd',
-    subtitle: 'Web Application for Exchanging and Trading Knowledge Documents.',
+    title: 'WebETkd',
+    subtitle: 'Web Application for Exchanging and Trading Knowledge Documents, using Node.js and Express.js.',
     img: 'assets/projects/WebETKD.jpg',
     redirect: '',
     github: 'https://github.com/Captainrock1/Final_Project',
     link: 'https://webapp-etkd.cyclic.app/',
   },
   {
-    title: 'Web RCP',
-    subtitle: 'Web Application - Resource Capacity Plan for IBM Manage Service Project',
-    img: 'assets/projects/resource_capacity_plan.jpg',
-    redirect: '',
-    github: 'https://github.com/Captainrock1/RCP-Project',
-    link: 'https://drive.google.com/file/d/1ENUHKITTS4T8Invp23jrot3OLp75HIEf/view?usp=sharing',
-  },
-  {
-    title: 'Web PCaptainRovGamer',
-    subtitle: 'A website for displaying various details of channels used for streaming RoV game and uploading related clips.',
+    title: 'PCaptainRovGamer Website',
+    subtitle: 'A website for displaying various details of channels used for streaming RoV game and uploading related clips, using basic of JavaScript, HTML and CSS.',
     img: 'assets/projects/PCaptainRoVGamer.jpg',
     redirect: '',
     github: 'https://github.com/Captainrock1/captainrovgamer',
     link: 'https://captainrovgamer.firebaseapp.com/',
   },
   {
-    title: 'Crypto Currency Test Program',
+    title: 'Crypto Currency Calculate Program',
     subtitle: 'Calculating cryptocurrency taxes (personal income tax) using a function in Java programming language',
     img: 'assets/projects/cryptotax.jpg',
     redirect: '',
@@ -158,8 +150,8 @@ export const personalProjectsInfo = [
     link: 'https://www.itax.in.th/pedia/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%9B%E0%B9%82%E0%B8%97-%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%94%E0%B8%B2/?fbclid=IwAR1s81IDDnSyrFKoP0lzLFKa7ScrPvLD1yTwIJtNgZeUX66-3Ku1Q3eneqI',
   },
   {
-    title: 'Web Weticket',
-    subtitle: 'This is a simple helpdesk support ticket management application which is a pre-interview assignment for developers. However, the functionality of this website is not yet complete in terms of displaying tickets retrieved from the MyTickets system.',
+    title: 'Weticket',
+    subtitle: 'This is a simple helpdesk support ticket management application which is a pre-interview assignment for developers. However, the functionality of this website is not yet complete in terms of displaying tickets retrieved from the MyTickets system, using Next.js and Express.js.',
     img: 'assets/projects/WebWeticket.jpg',
     redirect: '',
     github: 'https://github.com/Captainrock1/A_simple_helpdesk_support_ticket_management_application',
@@ -169,8 +161,16 @@ export const personalProjectsInfo = [
 
 export const groupProjectsInfo = [
   {
+    title: 'RCP Project',
+    subtitle: 'An application named Web Application - Resource Capacity Plan for IBM Manage Service Project which is developed by 2 members (workmate and I), using JavaScript',
+    img: 'assets/projects/resource_capacity_plan.jpg',
+    redirect: '',
+    github: 'https://github.com/Captainrock1/RCP-Project',
+    link: 'https://drive.google.com/file/d/1ENUHKITTS4T8Invp23jrot3OLp75HIEf/view?usp=sharing',
+  },
+  {
     title: 'Hotel Management System',
-    subtitle: 'A website named The Nextgen Hotel, developed by me and my Internet Programming group members, using PHP.',
+    subtitle: 'A website named The Nextgen Hotel, developed by 10 members (our Internet Programming group members), using PHP',
     img: 'assets/projects/Hotel_Management.jpg',
     redirect: '',
     github: 'https://github.com/Captainrock1/IP_project',
@@ -178,7 +178,7 @@ export const groupProjectsInfo = [
   },
   {
     title: 'NU Borrow Book System',
-    subtitle: 'A website named NU Borrow Book, developed by me and my Software Engineering group members, using PHP.',
+    subtitle: 'A website named NU Borrow Book, developed by 10 members (our Software Engineering group members), using PHP.',
     img: 'assets/projects/NU_Borrow_Book.jpg',
     redirect: '',
     github: '',
@@ -211,12 +211,25 @@ export const myteamInfo = [
 
 export const workInfo = [
   {
-    title: 'IBM Thailand',
+    title: 'D App Maker Co., Ltd.',
+    url: 'https://www.ufriend.shop/',
+    img: 'assets/work/ufriend.jpg',
+    imgDark: 'assets/work/ufriend.jpg',
+    duration: '26 Jun 2022 - Present',
+    role: 'Backend Developer',
+    about: [
+      `Tasked with contract documentreformation, I innovated by developing APIsfor PDF conversion. I further enabled customization by creating a dedicated pathway for modifying the position and size of contractsignatures, all while preserving the original serverfiles. My meticulous attention to detail wasreflected in rigoroustesting routines, ensuring impeccable document integrity.`,
+      `Developed a dynamic filterfunction forthe website to refine product installment contract details. The function offered advanced search optionsincluding customer name, ID number, phone number, payment date, and contractstatus. The system was designed to extract 'Confirmed' contract data from the database and update the display status on the website as perthe documented contractstatus. In cases of undefined status, the system defaulted to 'Active'.`,
+      `Tasked with implemented Deep Link navigation, ensuring a seamlesstransition from the website's application download page to the designated mobile application as per assigned workflows and requirements. Initiated and oversaw the enhancement and revision of the product installmentregistration page. Furthermore, I developed robust APIs to fully support the product installmentregistration process, in addition to APIs designed for productrecommendations.`,
+    ],
+  },
+  {
+    title: 'IBM Thailand Co., Ltd.',
     url: 'https://www.ibm.com/planetwide/th/',
     img: 'assets/work/ibm.jpg',
     imgDark: 'assets/work/ibm.jpg',
-    duration: '13 Jun 2022 -30 Sep 2022',
-    role: 'Application developer (Intern)',
+    duration: '13 Jun 2022 - 30 Sep 2022',
+    role: 'Application Developer (Intern)',
     about: [
       'Developed and deployed a Node.js-based web application named "Web Application - Resource Capacity Plan for IBM Manage Service Project" for internal use.',
       'Assisted in developing a report using JasperReports to convert the format and appearance of Crystal Reports.',
