@@ -48,7 +48,7 @@ const Header = (props) => {
         sizes="16x16"
         href="/favicon-16x16.png"
       />
-      <title>{title !== null ? title : 'kannapong Aiamtip'}</title>
+      <title>{title !== null ? title : 'Peerapon Chaijittiprasert'}</title>
     </Head>
   );
 };

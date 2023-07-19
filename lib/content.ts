@@ -30,7 +30,7 @@ export const nav = {
 
 export const landing = {
   img: {
-    url: 'https://media.licdn.com/dms/image/D5603AQHkEb6fkHt28A/profile-displayphoto-shrink_800_800/0/1679029164676?e=1686787200&v=beta&t=6MUfE4fCx15Dsn_ElFvjQeextt_w-Y9LBPTxwbwrjEo',
+    url: '/assets/profile/Captain.jpg',
     alt: 'Peerapon Chaijittiprasert',
   },
   text: ['Hi !', "I'm", 'Peerapon Chaijittiprasert.', "I'm a"],
@@ -191,7 +191,7 @@ export const myteamInfo = [
     name: 'Kanaphong Aiamtip',
     nickname:'Nick Name Soda',
     penname: 'Pen Name Sea_taley',
-    img: 'assets/soda.jpg',
+    img: 'assets/profile/Soda.jpg',
     website: '',
     github: 'https://github.com/KanapongAiamtip',
     fb: 'https://www.facebook.com/profile.php?id=100006123256688',
@@ -201,7 +201,7 @@ export const myteamInfo = [
     name: 'Nutdanai Wongveeradachakajohn',
     nickname:'Nick Name Aten',
     penname: 'Pen Name GodDuckBoy',
-    img: 'assets/Aten.jpg',
+    img: 'assets/profile/Aten.jpg',
     website: '',
     github: 'https://github.com/GodDuckBoy',
     fb: 'https://www.facebook.com/profile.php?id=100002694698578',
