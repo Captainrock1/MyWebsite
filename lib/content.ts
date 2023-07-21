@@ -127,7 +127,7 @@ export const contactInfo = {
 export const personalProjectsInfo = [
   {
     title: 'WebETkd',
-    subtitle: 'Web Application for Exchanging and Trading Knowledge Documents, using Node.js and Express.js.',
+    subtitle: 'Web Application for Exchanging and Trading Knowledge Documents, with separate user and admin websites, using Express.js with EJS template.',
     img: 'assets/projects/WebETKD.jpg',
     redirect: '',
     github: 'https://github.com/Captainrock1/Final_Project',
@@ -162,7 +162,7 @@ export const personalProjectsInfo = [
 export const groupProjectsInfo = [
   {
     title: 'RCP Project',
-    subtitle: 'An application named Web Application - Resource Capacity Plan for IBM Manage Service Project which is developed by 2 members (workmate and I), using JavaScript',
+    subtitle: 'An application named Web Application - Resource Capacity Plan for IBM Manage Service Project which is developed by 2 members (workmate and I), using Express.js with EJS template',
     img: 'assets/projects/resource_capacity_plan.jpg',
     redirect: '',
     github: 'https://github.com/Captainrock1/RCP-Project',
@@ -218,9 +218,9 @@ export const workInfo = [
     duration: '26 Jun 2022 - Present',
     role: 'Backend Developer',
     about: [
-      `Tasked with contract documentreformation, I innovated by developing APIsfor PDF conversion. I further enabled customization by creating a dedicated pathway for modifying the position and size of contractsignatures, all while preserving the original serverfiles. My meticulous attention to detail wasreflected in rigoroustesting routines, ensuring impeccable document integrity.`,
-      `Developed a dynamic filterfunction forthe website to refine product installment contract details. The function offered advanced search optionsincluding customer name, ID number, phone number, payment date, and contractstatus. The system was designed to extract 'Confirmed' contract data from the database and update the display status on the website as perthe documented contractstatus. In cases of undefined status, the system defaulted to 'Active'.`,
-      `Tasked with implemented Deep Link navigation, ensuring a seamlesstransition from the website's application download page to the designated mobile application as per assigned workflows and requirements. Initiated and oversaw the enhancement and revision of the product installmentregistration page. Furthermore, I developed robust APIs to fully support the product installmentregistration process, in addition to APIs designed for productrecommendations.`,
+      `Tasked with contract document reformation, I innovated by developing APIs for PDF conversion. I further enabled customization by creating a dedicated pathway for modifying the position and size of contract signatures, all while preserving the original server files. My meticulous attention to detail was reflected in rigoroustesting routines, ensuring impeccable document integrity.`,
+      `Developed a dynamic filter function for the website to refine product installment contract details. The function offered advanced search options including customer name, ID number, phone number, payment date, and contract status. The system was designed to extract 'Confirmed' contract data from the database and update the display status on the website as per the documented contract status. In cases of undefined status, the system defaulted to 'Active'.`,
+      `Tasked with implemented Deep Link navigation, ensuring a seamless transition from the website's application download page to the designated mobile application as per assigned workflows and requirements. Initiated and oversaw the enhancement and revision of the product installment registration page. Furthermore, I developed robust APIs to fully support the product installment registration process, in addition to APIs designed for product recommendations.`,
     ],
   },
   {
