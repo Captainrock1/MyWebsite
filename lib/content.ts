@@ -43,7 +43,8 @@ export const about = [
   "🔥 I am a new graduate from Naresuan University who codes for fun. I have been in coding since 2019 and I'm a software developer from Phitsanulok Thailand. 🔥",
   '',
   '🌈 I enjoy developing simple and beautiful applications to solve complex problems. When I am not coding, I enjoy watching movies or reading books to relax. 🌈',
-  '❤️ I'm seeking a full-stack developer or related positions with good benefits, growth opportunities, and excellent working conditions. Ideally, I prefer hybrid or remote work. ❤️',
+  '',
+  "❤️ I'm seeking a full-stack developer or related positions with good benefits, growth opportunities, and excellent working conditions. Ideally, I prefer hybrid or remote work. ❤️",
 ];
 
 export const techstack = [
