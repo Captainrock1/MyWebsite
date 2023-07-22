@@ -2,7 +2,7 @@ export const nav = {
   logo: 'Peerapon_Chaijittiprasert',
   links: [
     {
-      text: 'PROJECT',
+      text: 'PROJECTS',
       to: '/projects',
     },
     {
@@ -22,8 +22,8 @@ export const nav = {
       to: 'https://captainrockp1.wixsite.com/my-site',
     },
     {
-      text: 'DOWNLOAD RESUME',
-      to: '/assets/myResume.pdf',
+      text: 'RESUME',
+      to: '/assets/peerapon_resume.pdf',
     }
   ],
 };
