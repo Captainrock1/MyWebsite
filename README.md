@@ -1,4 +1,4 @@
-# my personal webpage :heartpulse: :heartpulse: :heartpulse:
+# My personal webpage :heartpulse: :heartpulse: :heartpulse:
 
 ## Tech stack :gem: :gem: :gem:
 In  website, we use
