@@ -3,7 +3,7 @@
 ## Tech stack :gem: :gem: :gem:
 In  website, we use
 - [Next JS](https://nextjs.org) for creating frontend application.
-- [tailwindcss](https://tailwindcss.com) for styling our application.
+- [Tailwind CSS](https://tailwindcss.com) for styling our application.
 
 
 Our main language of development is [TypeScript](https://www.typescriptlang.org/)
@@ -29,8 +29,11 @@ You can download and install Nodejs from its website [here](https://nodejs.org/)
 ## Getting started :mag_right: :mag_right: :mag_right:
 
 Run these commands to start developing from the root directory.
+
 Run yarn or npm install
+
 Run npm run dev
+
 Run yarn dev
 
 | Terminal 1                  |
