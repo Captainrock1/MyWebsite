@@ -19,7 +19,7 @@ export const nav = {
     },
     {
       text: 'ACHIEVEMENT',
-      to: 'https://captainrockp1.wixsite.com/my-site',
+      to: 'https://captainrockp1.wixsite.com/my-portfolio-site',
     },
     {
       text: 'RESUME',
