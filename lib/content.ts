@@ -18,7 +18,7 @@ export const nav = {
       to: '/contact',
     },
     {
-      text: 'WEB PORTFOLIO',
+      text: 'ACHIEVEMENT',
       to: 'https://captainrockp1.wixsite.com/my-site',
     },
     {
@@ -40,7 +40,7 @@ export const landing = {
 export const about = [
   "This website was created by Mr. Peerapon Chaijittiprasert (Captain)🌟🌟",
   '',
-  "🔥 I am a student from Naresuan University who codes for fun. I have been in coding since 2019 and I'm a software developer from Phitsanulok Thailand. 🔥",
+  "🔥 I am a new graduate from Naresuan University who codes for fun. I have been in coding since 2019 and I'm a software developer from Phitsanulok Thailand. 🔥",
   '',
   '🌈 I enjoy developing simple and beautiful applications to solve complex problems. When I am not coding, I enjoy watching movies or reading books to relax.',
   ''
